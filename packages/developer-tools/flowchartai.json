@@ -6,7 +6,6 @@
   "url": "https://github.com/tanchaowen84/flowchartai-mcp",
   "readme": "https://flowchartai.org/mcp",
   "runtime": "node",
-  "license": "MIT",
   "logo": "https://flowchartai.org/logo.png",
   "author": "FlowchartAI",
   "env": {},
